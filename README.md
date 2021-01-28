@@ -5,7 +5,6 @@
 
 [![FacebookAnalyzer banner](/Anna_facebook_analyzer_banner.png?raw=true)](#)
 
-
 ## About
 
 Facebook Analyzer visualizes your Facebook usage for you to get to know your online activity!  
@@ -16,6 +15,8 @@ Facebook Analyzer answers the following questions:
 - 💬 How often do you post on your wall?
 - ⏰ Which hours are you the most active?
 - 💙 What posts recieved the most likes this year?
+
+##
 
 [![FacebookAnalyzer banner2](/Anna_facebook_analyzer.png?raw=true)](#)
 
