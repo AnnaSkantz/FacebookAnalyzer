@@ -3,7 +3,8 @@
 [![platform = web](https://img.shields.io/badge/platform-web-13f27c.svg)](#)
 [![language = JavaScript](https://img.shields.io/badge/language-javascript-ff45e6.svg)](#)
 
-[![shapes banner](/shapes.png?raw=true)](#)
+[![FacebookAnalyzer banner](/Anna_facebook_analyzer_banner.png?raw=true)](#)
+[![FacebookAnalyzer banner2](/Anna_facebook_analyzer.png?raw=true)](#)
 
 
 ## About
